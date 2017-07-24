@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    targetNamespace="http://www.pitt.edu/~mrbst20/myCollection" <!-- to change -->
-    xmlns:jb="http://www.pitt.edu/~mrbst20/myCollection"
+    targetNamespace="https://github.com/str51/LIS2407_RPDR" <!-- to change -->
+    xmlns:rpdr="https://github.com/str51/LIS2407_RPDR"
     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:mods="http://www.loc.gov/mods/v3" 
     xmlns:vra="http://www.vraweb.org/vracore4.htm" 
@@ -11,9 +11,8 @@
     <xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" />
     <xs:import namespace="http://www.loc.gov/mods/v3" schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"/>
     <xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra.xsd"/>
-<!--<xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra-strict.xsd"/>-->
     
-    <xs:element name="dragRace">
+    <xs:element name="rpdrSection">
         <xs:complexType>
             <xs:sequence>
                 <xs:element ref="rp:dcSection" minOccurs="0" />
