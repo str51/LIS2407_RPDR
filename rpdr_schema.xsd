@@ -10,11 +10,19 @@
     <xs:element name="dragRace">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="queenName" type="xs:string" minOccurs="0" maxOccurs="1"/>
-                <xs:element name="givenName" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="rp:Queen" minOccurs="0" />
                 <xs:element name="rpdrSeason" type="xs:int" minOccurs="0" maxOccurs="unbounded"/>
                 <xs:element name="rpdrSubject" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
                 <xs:element ref="rp:modsSection" minOccurs="0"/>                            
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="Queen">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="queenName" type="xs:string" minOccurs="0" maxOccurs="1"/>
+                <xs:element name="givenName" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
