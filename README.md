@@ -1,5 +1,5 @@
 ## RuPaul’s Drag Race: An Academic Archive – Collection Description
-*Dave Lewis & Staci Ross | Assignment 1 | LIS 2407 | Summer 2017*
+*Dave Lewis & Staci Ross | LIS 2407 | Summer 2017*
 
 ### Overview
 
