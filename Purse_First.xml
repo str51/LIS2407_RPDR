@@ -37,12 +37,13 @@
                 <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
             </mods:language>
             <mods:physicalDescription>
-                <mods:form>audio</mods:form>
+                <mods:form>sound</mods:form>
                 <mods:internetMediaType>mp3</mods:internetMediaType>
             </mods:physicalDescription>
             <mods:typeOfResource>sound recording-musical</mods:typeOfResource>
             <mods:abstract>Musical recording by Bob the Drag Queen from Season 8 of RuPaul's Drag Race. </mods:abstract>
             <mods:identifier type="local">RPDR.2017.12</mods:identifier>
+            <mods:identifier>01 Purse First (feat. DJ Mitch Ferrino).m4a</mods:identifier>
             <mods:location>
                 <mods:url>https://itunes.apple.com/us/album/purse-first-feat-dj-mitch-ferrino-single/id1111134541
                 </mods:url>
