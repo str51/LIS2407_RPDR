@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <Queen>
+        <queenName>RuPaul</queenName>
+        <givenName>Charles, RuPaul</givenName>
+    </Queen>
+    <rpdrSeason>Season 1</rpdrSeason>
+    <rpdrSeason>Season 2</rpdrSeason>
+    <rpdrSeason>Season 3</rpdrSeason>
+    <rpdrSeason>Season 4</rpdrSeason>
+    <rpdrSeason>Season 5</rpdrSeason>
+    <rpdrSeason>Season 6</rpdrSeason>
+    <rpdrSeason>Season 7</rpdrSeason>
+    <rpdrSeason>Season 8</rpdrSeason>
+    <rpdrSeason>Season 9</rpdrSeason>
+    <rpdrSeason>All Stars 1</rpdrSeason>
+    <rpdrSeason>All Stars 2</rpdrSeason>
+    <rpdrSubject>Throwing Shade</rpdrSubject>
+    <rpdrSubject>Drag Queens</rpdrSubject>
+    <rpdrSubject>Camp</rpdrSubject>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>RuPaul What's The Tee?</mods:title>
+                <mods:subTitle>with Michelle Visage</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/n93091845">
+                <mods:namePart>RuPaul</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Creator</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/no98005164">
+                <mods:namePart>Visage, Michelle</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Supporting host</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">sht</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="text">United States</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">xxu</mods:placeTerm>
+                </mods:place>
+                <mods:dateCreated>April 8, 2014</mods:dateCreated>
+                <mods:frequency>weekly</mods:frequency>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form>sound</mods:form>
+                <mods:internetMediaType>mp3</mods:internetMediaType>
+            </mods:physicalDescription>
+            <mods:typeOfResource>sound recording-nonmusical</mods:typeOfResource>
+            <mods:abstract>In this podcast RuPaul and his cohost Michelle Visage discuss pop culture, advice, beauty advice, RuPaul's Drag Race, and the secrets of life with a wide array of incredible guests.</mods:abstract>
+            <mods:identifier type="local">RPDR.2017.09</mods:identifier>
+            <mods:location>
+                <mods:url>https://itunes.apple.com/us/podcast/rupaul-whats-the-tee-with-michelle-visage/id855749951?mt=2</mods:url>
+                <mods:url dateLastAccessed="2017-06-23">https://itunes.apple.com/us/podcast/rupaul-whats-the-tee-with-michelle-visage/id855749951?mt=2</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url>http://www.rupaulpodcast.com/</mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url>https://soundcloud.com/rupaulofficial/sets/rupaul-whats-the-tee-episode</mods:url>
+            </mods:location>
+            <mods:subject>
+                <mods:genre authority="lcgft" authorityURI="https://lccn.loc.gov/gf2011026450">Podcasts</mods:genre>
+                <mods:topic authority="lcsh" authorityURI="https://lccn.loc.gov/sh85061795">Gays</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:genre authority="lcgft" authorityURI="https://lccn.loc.gov/gf2011026450">Podcasts</mods:genre>
+                <mods:topic authority="lcsh" authorityURI="https://lccn.loc.gov/sh85064634">Female impersonators</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="https://lccn.loc.gov/gf2014026110">Humor</mods:topic>
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85064634">Female impersonators</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic authority="lcsh" authorityURI="https://lccn.loc.gov/sh85064634">Female impersonators</mods:topic>
+                <mods:topic authority="lcgft" authorityURI="https://lccn.loc.gov/gf2014026115">Interviews</mods:topic>
+            </mods:subject>
+        </mods:mods>
+    </modsSection>
+</dragRace>

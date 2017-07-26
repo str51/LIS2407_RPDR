@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <Queen>
+        <queenName>RuPaul</queenName>
+        <givenName>Charles, RuPaul</givenName>
+    </Queen>
+    <Queen>
+        <queenName>Manila Luzon</queenName>
+        <givenName>Westerberg, Karl Philip Michael, 1981-</givenName>
+    </Queen>
+    <Queen>
+        <queenName>Yara Sofia</queenName>
+        <givenName>Ortiz, Gabriel Burgos</givenName>
+    </Queen>
+    <Queen>
+        <queenName>Raja</queenName>
+        <givenName>Amrul, Sultan, 1974-</givenName>
+    </Queen>
+    <Queen>
+        <queenName>Alexis Mateo</queenName>
+        <givenName>Pacheco, Alexis Mateo 1979-</givenName>
+    </Queen>
+    <rpdrSeason>Season 3</rpdrSeason>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Chad Sell does 30 Queens (More or less)</mods:title>
+            </mods:titleInfo>
+            <mods:titleInfo type="alternative" displayLabel="Alternate Title">
+                <mods:title>30 Queens (More or Less)</mods:title>
+            </mods:titleInfo>
+            <mods:titleInfo type="alternative">
+                <mods:title>Thirty Queens (More or Less)</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Sell, Chad</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">ill</mods:roleTerm>
+                    <mods:roleTerm>Illustrator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">xxu</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:originInfo>
+                <mods:publisher>Chad Sell Comics</mods:publisher>
+                <mods:dateIssued>2011</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm type="text">United States</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form>text</mods:form>
+                <mods:note>32 unnumbered pages : all color illustrations ; 18 cm.</mods:note>
+            </mods:physicalDescription>
+            <mods:typeOfResource>still image</mods:typeOfResource>
+            <mods:abstract>Renderings of queens from RuPaul's Drag Race Season 3 drawn by comic artist Chad Sell, who participated in the filming of an episode in a later season.</mods:abstract>
+            <mods:identifier type="local">RPDR.2017.13</mods:identifier>
+            <mods:location>
+                <mods:url>https://itunes.apple.com/us/album/purse-first-feat-dj-mitch-ferrino-single/id1111134541
+                </mods:url>
+            </mods:location>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85064634">Female impersonators</mods:topic>
+                <mods:topic authorityURI="https://lccn.loc.gov/gf2014026580">Underground comics</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85064634">Female impersonators</mods:topic>
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85105182">Portraits</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh" authorityURI="https://lccn.loc.gov/sh2006003334">
+                <mods:topic>Drag Shows</mods:topic>
+                <mods:geographic authorityURI="https://lccn.loc.gov/n78095330">United States</mods:geographic>
+            </mods:subject>
+        </mods:mods>
+    </modsSection>
+</dragRace>

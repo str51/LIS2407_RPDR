@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <Queen>
+        <queenName>RuPaul</queenName>
+        <givenName>Charles, RuPaul</givenName>
+    </Queen>
+    <rpdrSeason>Season 2</rpdrSeason>
+    <rpdrSubject>Reading</rpdrSubject>
+    <rpdrSubject>Drag Queens</rpdrSubject>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Reading is Fundamental</mods:title>
+                <mods:subTitle>(feat. the cast of RuPaul's Drag Race)</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/n93091845">
+                <mods:namePart>RuPaul</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Performer</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">prf</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>DJ ShyBoy</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Performer</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">prf</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm>United States</mods:placeTerm>
+                </mods:place>
+                <mods:dateIssued>February 4, 2013</mods:dateIssued>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form>sound</mods:form>
+                <mods:internetMediaType>mp3</mods:internetMediaType>
+            </mods:physicalDescription>
+            <mods:typeOfResource>sound recording-musical</mods:typeOfResource>
+            <mods:abstract>A single, compiled from clips of drag queens competing on RuPaul's drag race "reading" each other, or trading insults. It has been edited and set to a dance beat by DJ ShyBoy with extra vocals by RuPaul.</mods:abstract>
+            <mods:identifier type="local">RPDR.2017.08</mods:identifier>
+            <mods:location>
+                <mods:url>https://itunes.apple.com/us/album/reading-is-fundamental-feat-cast-rupauls-drag-race/id597847563</mods:url>
+                <mods:url dateLastAccessed="2017-06-23">https://itunes.apple.com/us/album/reading-is-fundamental-feat-cast-rupauls-drag-race/id597847563</mods:url>
+            </mods:location>
+            <mods:subject authority="lcsh" authorityURI="https://lccn.loc.gov/sh85035638">
+                <mods:genre>Dance music.</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh" authorityURI="https://lccn.loc.gov/sh98001102">
+                <mods:genre>Techno music.</mods:genre>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:genre authorityURI="https://lccn.loc.gov/sh85088865">Popular music</mods:genre>
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85061795">Gays</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85067666">Invective</mods:topic>
+                <mods:topic authorityURI="	https://lccn.loc.gov/sh85147124">Wit and humor</mods:topic>
+            </mods:subject>
+        </mods:mods>
+    </modsSection>
+</dragRace>

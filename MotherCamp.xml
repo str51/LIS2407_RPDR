@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <rpdrSubject>Reading</rpdrSubject>
+    <rpdrSubject>Drag Queens</rpdrSubject>
+    <rpdrSubject>Drag Pageants</rpdrSubject>
+    <rpdrSubject>Camp</rpdrSubject>
+    <modsSection>
+        <mods:mods>
+           <mods:titleInfo>
+               <mods:title>Mother Camp</mods:title>
+               <mods:subTitle>Female Impersonators in America</mods:subTitle>
+           </mods:titleInfo>
+           <mods:name type="personal">
+               <mods:namePart>Newton, Esther</mods:namePart>
+               <mods:role>
+                   <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                   <mods:roleTerm>Author</mods:roleTerm>
+               </mods:role>
+           </mods:name>
+           <mods:originInfo>
+               <mods:place>
+                   <mods:placeTerm type="code" authority="marccountry">xxu</mods:placeTerm>
+               </mods:place>
+           </mods:originInfo>
+           <mods:originInfo>
+               <mods:publisher>University of Chicago Press</mods:publisher>
+               <mods:dateIssued>1979</mods:dateIssued>
+               <mods:place>
+                   <mods:placeTerm type="text">United States</mods:placeTerm>
+               </mods:place>
+           </mods:originInfo>
+           <mods:language>
+               <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+           </mods:language>
+           <mods:physicalDescription>
+               <mods:form>audio</mods:form>
+           </mods:physicalDescription>
+           <mods:typeOfResource>text</mods:typeOfResource>
+           <mods:abstract>For two years Ester Newton did field research in the world of drag queens—homosexual men who make a living impersonating women. Newton spent time in the noisy bars, the chaotic dressing rooms, and the cheap apartments and hotels that make up the lives of drag queens, interviewing informants whose trust she had earned and compiling a lively, first-hand ethnographic account of the culture of female impersonators. Mother Camp explores the distinctions that drag queens make among themselves as performers, the various kinds of night clubs and acts they depend on for a living, and the social organization of their work. A major part of the book deals with the symbolic geography of male and female styles, as enacted in the homosexual concept of "drag" (sex role transformation) and "camp," an important humor system cultivated by the drag queens.</mods:abstract>
+           <mods:abstract>Anthropological study of drag queens that documents early drag history, terms, and culture that are often referenced in RuPaul's Drag Race.</mods:abstract>
+           <mods:tableOfContents>
+               Preface
+               Acknowledgments
+               Note to the Reader
+               1. On the Job
+               2. The "Queens"
+               3. Types of Acts
+               4. Two Shows
+               5. Role Models
+               6. "The Fast Fuck and the Quick Buck"
+               Appendix
+               Field Methods
+           </mods:tableOfContents>
+           <mods:identifier type="local">RPDR.2017.12</mods:identifier>
+           <mods:identifier>ISBN: 978022657760</mods:identifier>
+           <mods:accessCondition>Copyright 1979</mods:accessCondition>
+           <mods:location>
+               <mods:url>https://itunes.apple.com/us/album/purse-first-feat-dj-mitch-ferrino-single/id1111134541
+               </mods:url>
+           </mods:location>
+           <mods:subject authority="lcsh">
+               <mods:topic authorityURI="https://lccn.loc.gov/sh85061780">Homosexuality</mods:topic>
+               <mods:geographic authorityURI="https://lccn.loc.gov/n78095330">United States</mods:geographic>
+           </mods:subject>
+           <mods:subject authority="lcsh">
+               <mods:topic authorityURI="https://lccn.loc.gov/sh85064634">Female impersonators</mods:topic>
+               <mods:geographic authorityURI="https://lccn.loc.gov/n78095330">United States</mods:geographic>
+           </mods:subject>
+           <mods:subject authority="lcsh" authorityURI="https://lccn.loc.gov/sh2006003334">
+               <mods:topic>Drag Shows</mods:topic>
+               <mods:geographic authorityURI="https://lccn.loc.gov/n78095330">United States</mods:geographic>
+           </mods:subject>
+        </mods:mods>
+    </modsSection>
+</dragRace>

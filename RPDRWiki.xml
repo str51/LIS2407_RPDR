@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <rpdrSeason>Season 9</rpdrSeason>
+    <rpdrSeason>Season 8</rpdrSeason>
+    <rpdrSeason>Season 7</rpdrSeason>
+    <rpdrSeason>Season 6</rpdrSeason>
+    <rpdrSeason>Season 5</rpdrSeason>
+    <rpdrSeason>Season 4</rpdrSeason>
+    <rpdrSeason>Season 3</rpdrSeason>
+    <rpdrSeason>Season 2</rpdrSeason>
+    <rpdrSeason>Season 1</rpdrSeason>
+    <rpdrSeason>All Stars 1</rpdrSeason>
+    <rpdrSeason>All Stars 2</rpdrSeason>
+    <rpdrSubject>Throwing Shade</rpdrSubject>
+    <rpdrSubject>Drag Queens</rpdrSubject>
+    <rpdrSubject>Camp</rpdrSubject>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:nonSort>The</mods:nonSort>
+                <mods:title>RuPaul's Drag Race Wiki</mods:title>
+            </mods:titleInfo>
+            <mods:name type="corporate">
+                <mods:namePart>Fandom TV</mods:namePart>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>RuPaul's Drag Race</mods:namePart>
+                <mods:affiliation>Logo</mods:affiliation>
+                <mods:affiliation>World of Wonder Productions</mods:affiliation>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">xxu</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="text">United States</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form>electronic resource</mods:form>
+                <mods:internetMediaType>html</mods:internetMediaType>
+            </mods:physicalDescription>
+            <mods:typeOfResource>software, multimedia</mods:typeOfResource>
+            <mods:abstract>A fan-powered wiki page describing, commenting on, and creating fan art and commentary about RuPaul's Drag Race, including the judges, guests, competitors, and episodes.</mods:abstract>
+            <mods:identifier type="local">RPDR.2017.04</mods:identifier>
+            <mods:location>
+                <mods:url>http://rupaulsdragrace.wikia.com/wiki/RuPaul%27s_Drag_Race_Wiki</mods:url>
+                <mods:url dateLastAccessed="2017-06-06">http://rupaulsdragrace.wikia.com/wiki/RuPaul%27s_Drag_Race_Wiki</mods:url>
+            </mods:location>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="https://lccn.loc.gov/sh00004800">Wikis (Computer science)</mods:topic>
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85064634">Female impersonators</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85064634">Female impersonators</mods:topic>
+                <mods:geographic authorityURI="https://lccn.loc.gov/n78095330">United States</mods:geographic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85104904">Popular Culture</mods:topic>
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85123910">Social aspects</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="https://lccn.loc.gov/sh2004003369">Gay Culture</mods:topic>
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85123910">Social aspects</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="https://lccn.loc.gov/sh85133602">Television programs</mods:topic>
+            </mods:subject>
+        </mods:mods>
+    </modsSection>
+</dragRace>
