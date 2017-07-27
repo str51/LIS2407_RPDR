@@ -68,10 +68,6 @@
             <mods:typeOfResource>still image</mods:typeOfResource>
             <mods:abstract>Renderings of queens from RuPaul's Drag Race Season 3 drawn by comic artist Chad Sell, who participated in the filming of an episode in a later season.</mods:abstract>
             <mods:identifier type="local">RPDR.2017.13</mods:identifier>
-            <mods:location>
-                <mods:url>https://itunes.apple.com/us/album/purse-first-feat-dj-mitch-ferrino-single/id1111134541
-                </mods:url>
-            </mods:location>
             <mods:subject authority="lcsh">
                 <mods:topic authorityURI="https://lccn.loc.gov/sh85064634">Female impersonators</mods:topic>
                 <mods:topic authorityURI="https://lccn.loc.gov/gf2014026580">Underground comics</mods:topic>
