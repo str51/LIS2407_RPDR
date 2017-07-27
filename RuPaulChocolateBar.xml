@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3"
     xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
     <Queen>
         <queenName>RuPaul</queenName>
         <givenName>Charles, RuPaul</givenName>
     </Queen>
-    <rpdrSeason>Season 6</rpdrSeason>
+    <Season>
+        <rpdrSeason>Season 6</rpdrSeason>
+        <rpdrYear>2014</rpdrYear>
+    </Season>
     <rpdrSubject>Drag Queens</rpdrSubject>
     <modsSection>
         <mods:mods>
