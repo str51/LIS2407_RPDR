@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3"
     xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
     <Queen>
         <queenName>RuPaul</queenName>
         <givenName>Charles, RuPaul</givenName>
     </Queen>
-    <rpdrSeason>Season 2</rpdrSeason>
+    <Season>
+        <rpdrSeason>Season 2</rpdrSeason>
+        <rpdrYear>2010</rpdrYear>
+    </Season>
     <rpdrSubject>Reading</rpdrSubject>
     <rpdrSubject>Drag Queens</rpdrSubject>
     <modsSection>
@@ -17,7 +19,8 @@
                 <mods:title>Reading is Fundamental</mods:title>
                 <mods:subTitle>(feat. the cast of RuPaul's Drag Race)</mods:subTitle>
             </mods:titleInfo>
-            <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/n93091845">
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/n93091845">
                 <mods:namePart>RuPaul</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text" authority="marcrelator">Performer</mods:roleTerm>
@@ -49,7 +52,8 @@
             <mods:identifier type="local">RPDR.2017.08</mods:identifier>
             <mods:location>
                 <mods:url>https://itunes.apple.com/us/album/reading-is-fundamental-feat-cast-rupauls-drag-race/id597847563</mods:url>
-                <mods:url dateLastAccessed="2017-06-23">https://itunes.apple.com/us/album/reading-is-fundamental-feat-cast-rupauls-drag-race/id597847563</mods:url>
+                <mods:url dateLastAccessed="2017-06-23"
+                    >https://itunes.apple.com/us/album/reading-is-fundamental-feat-cast-rupauls-drag-race/id597847563</mods:url>
             </mods:location>
             <mods:subject authority="lcsh" authorityURI="https://lccn.loc.gov/sh85035638">
                 <mods:genre>Dance music.</mods:genre>
