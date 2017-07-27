@@ -3,7 +3,7 @@
 
 ### Overview
 
-The collection focuses on items related to long-running TV series RuPaul's Drag Race (RPDR). There is ample fan material on the web, commercial material available from the show, and academic research on drag and Drag Races. However, to our knowledge no institution is collecting or making that material searchable for scholarship and teaching. As a pop-culture icon, the absence of an archive to RuPaul is puzzling. This collection is best suited to an institution with a large body of pop-culture items. The resource could be of use to researchers, instructors, and students in women's, gender, and sexuality studies programs, as well as anthropology, sociology, and media studies. 
+The collection focuses on items related to long-running TV series RuPaul's Drag Race (RPDR). There is ample fan material on the web, commercial material available from the show, and academic research on drag and drag shows. However, to our knowledge no institution is collecting or making that material searchable for scholarship and teaching. As a pop-culture icon, the absence of an archive to RuPaul is puzzling. This collection is best suited to an institution with a large body of pop-culture items. The resource could be of use to researchers, instructors, and students in women's, gender, and sexuality studies programs, as well as anthropology, sociology, and media studies. 
 
 ### Metadata
 
