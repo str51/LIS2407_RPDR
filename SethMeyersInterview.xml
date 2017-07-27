@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <Season>
+        <rpdrSeason>Season 9</rpdrSeason>
+        <rpdrYear>2017</rpdrYear>
+    </Season>
+    <rpdrSubject>Drag queens</rpdrSubject>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo displayLabel="Video clip title">
+                <mods:title>RuPaul Gives an Honest Critique of Seth Meyers' Shower Bod</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Late Night with Seth Meyers</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Creator</mods:roleTerm>
+                </mods:role>
+                <mods:description>Youtube username</mods:description>
+            </mods:name>
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/no2009161301">
+                <mods:namePart>Meyers, Seth, 1973-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Interviewer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/n93091845">
+                <mods:namePart>RuPaul, 1960-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">Interviewee</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/n2007018166">
+                <mods:namePart>YouTube (Firm)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Distributor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:abstract>RuPaul breaks down how he got Lady Gaga to guest judge for RuPaul's Drag Race Season 9 and how the show's deconstruction of identity connects with its younger viewers.</mods:abstract>
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+            <mods:genre authority="marcgt">videorecording</mods:genre>
+            <mods:originInfo eventType="Date published">
+                <mods:dateIssued>Mar 2, 2017</mods:dateIssued>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="http://id.loc.gov/authorities/names/n2014052347">RuPaul's drag race (Television program : 2009- )</mods:topic>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic>Female impersonators</mods:topic>
+                <mods:topic>Social history</mods:topic>
+                <mods:geographic>United States</mods:geographic>
+            </mods:subject>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:title>Late Night with Seth Meyers</mods:title>
+                </mods:titleInfo>
+                <mods:part>
+                    <mods:detail type="season">
+                        <mods:number>8</mods:number>
+                    </mods:detail>
+                    <mods:detail type="episode">
+                        <mods:number>78</mods:number>
+                    </mods:detail>
+                    <mods:date>March 1, 2017</mods:date>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="local">RPDR.2017.13</mods:identifier>
+            <mods:location>
+                <mods:url>https://www.youtube.com/watch?v=TpKIZm5I1Z4</mods:url>
+            </mods:location>
+        </mods:mods>
+    </modsSection>
+</dragRace>

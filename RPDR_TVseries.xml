@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <rpdrSubject>Drag queens</rpdrSubject>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>RuPaul’s Drag Race</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/n93091845">
+                <mods:namePart>RuPaul, 1960-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Creator</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Host</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">hst</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/no99035333">
+                <mods:namePart>World of Wonder (Firm)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Television producer</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">tlp</mods:roleTerm>
+                </mods:role>
+                <mods:namePart type="date">2017-</mods:namePart>
+            </mods:name>
+            <mods:name type="corporate" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/no98131840">
+                <mods:namePart>VH1 (Firm)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Distributor</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">dst</mods:roleTerm>
+                </mods:role>
+                <mods:namePart type="date">2017-</mods:namePart>
+            </mods:name>
+            <mods:name type="corporate" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/no2010133383">
+                <mods:namePart>Logo (Television network)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Distributor</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">dst</mods:roleTerm>
+                </mods:role>
+                <mods:namePart type="date">2009-2016</mods:namePart>
+            </mods:name>
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+            <mods:genre authority="lcgft">Television series</mods:genre>
+            <mods:originInfo>
+                <mods:dateIssued>2009-</mods:dateIssued>
+            </mods:originInfo>
+            <mods:abstract>RuPaul's Drag Race is an American reality competition television series which documents RuPaul's search for "America's next drag superstar." RuPaul plays the role of host, mentor, and head judge for this series, as contestants are given different challenges each week. The show employs a panel of judges, including RuPaul, Michelle Visage, Ross Mathews, Carson Kressley, and a host of other guest judges, who critique contestants' progress throughout the competition.
+            </mods:abstract>
+            <mods:subject authority="lcsh">
+                <mods:topic>Female impersonators</mods:topic>
+                <mods:topic>Television game shows</mods:topic>
+                <mods:geographic>United States</mods:geographic>
+            </mods:subject>
+            <mods:identifier type="local">RPDR.2017.14</mods:identifier>
+        </mods:mods>
+    </modsSection>
+</dragRace>

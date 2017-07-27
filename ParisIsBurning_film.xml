@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <Queen>
+        <queenName>Carmen and Brooke</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Andre Christian</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Dorian Corey</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Paris Dupree</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Pepper Labeija</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Junior Labeija</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Willi Ninja</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Sandy Ninja</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Kim Pendavis</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Freddie Pendavis</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Sol Pendavis</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Avis Pendavis</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Octavia Saint Laurent</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Stevie Saint Laurent</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Angie Xtravaganza</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Bianca Xtravaganza</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Danny Xtravaganza</queenName>
+    </Queen>
+    <Queen>
+        <queenName>David Xtravaganza</queenName>
+    </Queen>
+    <Queen>
+        <queenName>David Ian Xtravaganza</queenName>
+    </Queen>
+    <Queen>
+        <queenName>Venus Xtravaganza</queenName>
+    </Queen>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Paris Is Burning</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/n93005789">
+                <mods:namePart>Livingston, Jennie</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Director</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">drt</mods:roleTerm>
+                </mods:role>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Producer</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">pro</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/no2015033202">
+                <mods:namePart>Gibson, Paul (Cinematographer)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Cinematographer</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">cng</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/no2001074591">
+                <mods:namePart>Oppenheim, Jonathan</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Editor</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">edt</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/nr95024759">
+                <mods:namePart>Miramax Home Entertainment (Firm)</mods:namePart>
+            </mods:name>
+            <mods:name type="corporate" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/no98084452">
+                <mods:namePart>Buena Vista Home Entertainment (Firm)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Distributor </mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">dst</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+            <mods:genre authority="marcgt">motion picture</mods:genre>
+            <mods:originInfo>
+                <mods:edition>Originally released as a motion picture in 1990.</mods:edition>
+                <mods:dateIssued>2005</mods:dateIssued>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:extent>1 videodisc (76 min.) : sd., col. with b&amp;w sequences ; 4 3/4 in.</mods:extent>
+            </mods:physicalDescription>
+            <mods:physicalDescription>
+                <mods:extent>dvd, region 1; Dolby digital mono</mods:extent>
+            </mods:physicalDescription>
+            <mods:abstract>Summary: The "unblinking behind-the-scenes story of the fashion-obsessed New Yorkers who created ’voguing’ and drag balls, and turned these raucous celebrations into a powerful expression of fierce personal pride" -- Container.
+            </mods:abstract>
+            <mods:tableOfContents>Contents: Special features: Feature commentary by Jennie Livingston, director/producer; Willie Ninja, Mother, House of Ninja; Freddie Pendavis, House of Pendavis and Jonathan Oppenheim, editor; Outtakes.</mods:tableOfContents>
+            <mods:subject authority="lcsh">
+                <mods:topic>African American gay men</mods:topic>
+                <mods:topic>Social life and customs</mods:topic>
+                <mods:geographic>New York (State)</mods:geographic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Drag balls</mods:topic>
+                <mods:geographic>New York (State)</mods:geographic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:genre>Documentary films</mods:genre>
+                <mods:geographic>United States</mods:geographic>
+            </mods:subject>
+            <mods:identifier>ISBN: 0788861492</mods:identifier>
+            <mods:identifier>ISBN:9780788861499</mods:identifier>
+            <mods:identifier type="local">RPDR.2017.04</mods:identifier>
+        </mods:mods>
+    </modsSection>
+</dragRace>

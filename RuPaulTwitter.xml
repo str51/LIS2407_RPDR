@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <Queen>
+        <queenName>RuPaul</queenName>
+        <givenName>Charles, RuPaul</givenName>
+    </Queen>
+    <Season>
+        <rpdrSeason>Season 1</rpdrSeason>
+        <rpdrYear>2009</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 2</rpdrSeason>
+        <rpdrYear>2010</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 3</rpdrSeason>
+        <rpdrYear>2011</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 4</rpdrSeason>
+        <rpdrYear>2012</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 5</rpdrSeason>
+        <rpdrYear>2013</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 6</rpdrSeason>
+        <rpdrYear>2014</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 7</rpdrSeason>
+        <rpdrYear>2015</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 8</rpdrSeason>
+        <rpdrYear>2016</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 9</rpdrSeason>
+        <rpdrYear>2017</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>All Stars Season 1</rpdrSeason>
+        <rpdrYear>2012</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>All Stars Season 2</rpdrSeason>
+        <rpdrYear>2016</rpdrYear>
+    </Season>
+    <rpdrSubject>Drag queens</rpdrSubject>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo displayLabel="Webpage title">
+                <mods:title>RuPaul (@RuPaul) | Twitter</mods:title>
+            </mods:titleInfo>
+            <mods:titleInfo type="alternative" displayLabel="also known as" usage="primary">
+                <mods:title>[RuPaul's Official Twitter Page]</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="lcsh"
+                authorityURI="http://id.loc.gov/authorities/names/n93091845">
+                <mods:namePart>RuPaul, 1960-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Creator</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate" authority="viaf"
+                authorityURI="http://viaf.org/viaf/125720882">
+                <mods:namePart>Twitter (Firm)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Distributor</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">dst</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:abstract>Verified Twitter account of RuPaul.</mods:abstract>
+            <mods:typeOfResource>software, multimedia</mods:typeOfResource>
+            <mods:originInfo eventType="Date joined">
+                <mods:dateCreated>October 2009</mods:dateCreated>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:topic authorityURI="http://id.loc.gov/authorities/subjects/sh2006007023">Social media</mods:topic>
+                <mods:topic authorityURI="http://id.loc.gov/authorities/subjects/sh2006006990">Online social networks</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Female impersonators</mods:topic>
+                <mods:geographic>United States</mods:geographic>
+            </mods:subject>
+            <mods:identifier type="local">RPDR.2017.11</mods:identifier>
+            <mods:location>
+                <mods:url>http://twitter.com/RuPaul</mods:url>
+            </mods:location>
+        </mods:mods>
+    </modsSection>
+</dragRace>

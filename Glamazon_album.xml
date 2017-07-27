@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+<Season>
+    <rpdrSeason>Season 3</rpdrSeason>
+    <rpdrYear>2011</rpdrYear>
+</Season>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Glamazon</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/n93091845">
+                <mods:namePart>RuPaul, 1960-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Creator</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Paine, Lucian</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Performer</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">prf</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>RuCo, Inc.</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Distributor</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">dst</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>sound recording</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:dateIssued>2011</mods:dateIssued>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:extent>1 audio disc : digital ; 4 3/4 in.</mods:extent>
+            </mods:physicalDescription>
+            <mods:abstract>Glamazon is the sixth studio album from American singer and drag queen RuPaul. It was released on iTunes through RuCo on April 25, 2011, coinciding with the third season finale of RuPaul's Drag Race.</mods:abstract>
+            <mods:tableOfContents>
+                The beginning --
+                Click clack (make dat money) --
+                Glamazon --
+                I bring the beat --
+                Superstar --
+                Responsitrannity --
+                Live forever --
+                Get your rebel on --
+                (Here it comes) Around again --
+                If I dream.
+            </mods:tableOfContents>
+            <mods:subject authority="lcsh">
+                <mods:topic>Dance music</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Techno music</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Rock music</mods:topic>
+                <mods:temporal>2011-2020</mods:temporal>
+            </mods:subject>
+            <mods:identifier>ISBN:845121035797</mods:identifier>
+            <mods:identifier type="local">RPDR.2017.05</mods:identifier>
+        </mods:mods>
+    </modsSection>
+</dragRace>

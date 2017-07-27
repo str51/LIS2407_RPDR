@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <Queen>
+        <queenName>RuPaul</queenName>
+        <givenName>Charles, RuPaul</givenName>
+    </Queen>
+    <Season>
+        <rpdrSeason>Season 9</rpdrSeason>
+        <rpdrYear>2017</rpdrYear>
+    </Season>
+    <rpdrSubject>Drag queens</rpdrSubject>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo displayLabel="Webpage title">
+                <mods:title>RuPaul on the Role of Drag in Trump's America</mods:title>
+            </mods:titleInfo>
+            <mods:titleInfo displayLabel="Article title">
+                <mods:title>Why Drag Is the Ultimate Retort to Trump</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart>Kornhaber, Spencer</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Author</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Cuneo, John</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Illustrator</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">ill</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Hill, Tom</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Photographer</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">pht</mods:roleTerm>
+                </mods:role>
+                <mods:description>Photograph responsiblity</mods:description>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>MediaVast UK Limited</mods:namePart>
+                <mods:affiliation>WireImage</mods:affiliation>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Distributor</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">dst</mods:roleTerm>
+                </mods:role>
+                <mods:description>Photograph responsiblity</mods:description>
+            </mods:name>
+            <mods:name type="corporate" authority="lcsh"
+                authorityURI="http://id.loc.gov/vocabulary/organizations/wasegi">
+                <mods:namePart>Getty Images</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Copyright holder</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">cph</mods:roleTerm>
+                </mods:role>
+                <mods:description>Photograph responsiblity</mods:description>
+            </mods:name>
+            <mods:abstract>RuPaul versus the White House</mods:abstract>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:genre authority="marcgt">article</mods:genre>
+            <mods:originInfo eventType="Date of issue published">
+                <mods:dateIssued>June 2017</mods:dateIssued>
+            </mods:originInfo>
+            <mods:subject authority="lcsh">
+                <mods:name type="personal" authority="naf"
+                    authorityURI="http://id.loc.gov/authorities/names/n93091845">
+                    <mods:namePart>RuPaul, 1960-</mods:namePart>
+                </mods:name>
+            </mods:subject>
+            <mods:subject>
+                <mods:topic>Female impersonators</mods:topic>
+                <mods:topic>Social history</mods:topic>
+                <mods:geographic>United States</mods:geographic>
+            </mods:subject>
+            <mods:relatedItem type="host">
+                <mods:titleInfo>
+                    <mods:nonSort>The</mods:nonSort>
+                    <mods:title>Atlantic Monthly</mods:title>
+                </mods:titleInfo>
+                <mods:part>
+                    <mods:date>June 2017</mods:date>
+                </mods:part>
+            </mods:relatedItem>
+            <mods:identifier type="local">RPDR.2017.12</mods:identifier>
+            <mods:location>
+                <mods:url>http://www.theatlantic.com/magazine/archive/2017/06/rupaul-gets-political/524529/</mods:url>
+            </mods:location>
+        </mods:mods>
+    </modsSection>
+</dragRace>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
+    <rpdrSubject>Reading</rpdrSubject>
+    <rpdrSubject>Drag Queens</rpdrSubject>
+    <rpdrSubject>Drag Pageants</rpdrSubject>
+    <rpdrSubject>Camp</rpdrSubject>
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Makeup of RuPaul's Drag Race</mods:title>
+                <mods:subTitle>Essays on the Queen of Reality Shows</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/nb2006001390">
+                <mods:namePart>Daems, Jim, 1966-</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">Editor</mods:roleTerm>
+                    <mods:roleTerm type="code" authority="marcrelator">edt</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:originInfo>
+                <mods:publisher>McFarland &amp; Company, Inc.</mods:publisher>
+                <mods:dateIssued>2014</mods:dateIssued>
+                <mods:place>
+                    <mods:placeTerm type="text">United States</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form>ebook</mods:form>
+            </mods:physicalDescription>
+            <mods:physicalDescription>
+                <mods:extent>1 online resource (vi, 202 pages)</mods:extent>
+            </mods:physicalDescription>
+            <mods:subject authority="lcsh">
+                <mods:topic>RuPaul’s drag race (Television program : 2009- )</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Female impersonators on television</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:genre>Sexual minorities on television</mods:genre>
+            </mods:subject>
+            <mods:identifier>ISBN:978-1-4766-1886-9 (ebook)</mods:identifier>
+            <mods:identifier>ISBN:978-0-7864-9507-8 (softcover: acid free paper)</mods:identifier>
+            <mods:identifier type="local">RPDR.2017.06</mods:identifier>
+            <mods:location>
+                <mods:url>http://pitt.idm.oclc.org/login?url=http://site.ebrary.com/lib/pitt/Top?id=10947259
+                </mods:url>
+            </mods:location>
+            <mods:accessCondition type="use and restriction">Access restricted to Pitt users.</mods:accessCondition>
+            <mods:accessCondition>Copyright 2014</mods:accessCondition>
+        </mods:mods>
+    </modsSection>
+</dragRace>
+
