@@ -8,6 +8,10 @@
         <queenName>Bob The Drag Queen</queenName>
         <givenName>Caldwell, Christopher, 1986-</givenName>
     </Queen>
+    <Season>
+        <rpdrSeason>Season 8</rpdrSeason>
+        <rpdrYear>2016</rpdrYear>
+    </Season>
     <rpdrSubject>Reading</rpdrSubject>
     <rpdrSubject>Ballroom culture</rpdrSubject>
     <rpdrSubject>Drag queens</rpdrSubject>
