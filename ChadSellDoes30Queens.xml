@@ -24,7 +24,10 @@
         <queenName>Alexis Mateo</queenName>
         <givenName>Pacheco, Alexis Mateo 1979-</givenName>
     </Queen>
-    <rpdrSeason>Season 3</rpdrSeason>
+    <Season>
+        <rpdrSeason>Season 3</rpdrSeason>
+        <rpdrYear>2011</rpdrYear>
+    </Season>
     <modsSection>
         <mods:mods>
             <mods:titleInfo>
