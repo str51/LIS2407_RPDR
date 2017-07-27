@@ -37,7 +37,7 @@
                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
            </mods:language>
            <mods:physicalDescription>
-               <mods:form>audio</mods:form>
+               <mods:form>text</mods:form>
            </mods:physicalDescription>
            <mods:typeOfResource>text</mods:typeOfResource>
            <mods:abstract>For two years Ester Newton did field research in the world of drag queens—homosexual men who make a living impersonating women. Newton spent time in the noisy bars, the chaotic dressing rooms, and the cheap apartments and hotels that make up the lives of drag queens, interviewing informants whose trust she had earned and compiling a lively, first-hand ethnographic account of the culture of female impersonators. Mother Camp explores the distinctions that drag queens make among themselves as performers, the various kinds of night clubs and acts they depend on for a living, and the social organization of their work. A major part of the book deals with the symbolic geography of male and female styles, as enacted in the homosexual concept of "drag" (sex role transformation) and "camp," an important humor system cultivated by the drag queens.</mods:abstract>
