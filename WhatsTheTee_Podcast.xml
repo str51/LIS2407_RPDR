@@ -1,24 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dragRace xmlns="http://github.com/str51/LIS2407_RPDR"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3"
     xsi:schemaLocation="https://github.com/str51/LIS2407_RPDR https://raw.githubusercontent.com/str51/LIS2407_RPDR/master/rpdr_schema.xsd">
     <Queen>
         <queenName>RuPaul</queenName>
         <givenName>Charles, RuPaul</givenName>
     </Queen>
-    <rpdrSeason>Season 1</rpdrSeason>
-    <rpdrSeason>Season 2</rpdrSeason>
-    <rpdrSeason>Season 3</rpdrSeason>
-    <rpdrSeason>Season 4</rpdrSeason>
-    <rpdrSeason>Season 5</rpdrSeason>
-    <rpdrSeason>Season 6</rpdrSeason>
-    <rpdrSeason>Season 7</rpdrSeason>
-    <rpdrSeason>Season 8</rpdrSeason>
-    <rpdrSeason>Season 9</rpdrSeason>
-    <rpdrSeason>All Stars 1</rpdrSeason>
-    <rpdrSeason>All Stars 2</rpdrSeason>
+    <Season>
+        <rpdrSeason>Season 1</rpdrSeason>
+        <rpdrYear>2009</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 2</rpdrSeason>
+        <rpdrYear>2010</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 3</rpdrSeason>
+        <rpdrYear>2011</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 4</rpdrSeason>
+        <rpdrYear>2012</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 5</rpdrSeason>
+        <rpdrYear>2013</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 6</rpdrSeason>
+        <rpdrYear>2014</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 7</rpdrSeason>
+        <rpdrYear>2015</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 8</rpdrSeason>
+        <rpdrYear>2016</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>Season 9</rpdrSeason>
+        <rpdrYear>2017</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>All Stars: Season 1</rpdrSeason>
+        <rpdrYear>2012</rpdrYear>
+    </Season>
+    <Season>
+        <rpdrSeason>All Stars: Season 2</rpdrSeason>
+        <rpdrYear>2016</rpdrYear>
+    </Season>
     <rpdrSubject>Throwing Shade</rpdrSubject>
     <rpdrSubject>Drag Queens</rpdrSubject>
     <rpdrSubject>Camp</rpdrSubject>
@@ -28,14 +60,16 @@
                 <mods:title>RuPaul What's The Tee?</mods:title>
                 <mods:subTitle>with Michelle Visage</mods:subTitle>
             </mods:titleInfo>
-            <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/n93091845">
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/n93091845">
                 <mods:namePart>RuPaul</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text" authority="marcrelator">Creator</mods:roleTerm>
                     <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
                 </mods:role>
             </mods:name>
-            <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/no98005164">
+            <mods:name type="personal" authority="naf"
+                authorityURI="http://id.loc.gov/authorities/names/no98005164">
                 <mods:namePart>Visage, Michelle</mods:namePart>
                 <mods:role>
                     <mods:roleTerm type="text" authority="marcrelator">Supporting host</mods:roleTerm>
@@ -64,7 +98,8 @@
             <mods:identifier type="local">RPDR.2017.09</mods:identifier>
             <mods:location>
                 <mods:url>https://itunes.apple.com/us/podcast/rupaul-whats-the-tee-with-michelle-visage/id855749951?mt=2</mods:url>
-                <mods:url dateLastAccessed="2017-06-23">https://itunes.apple.com/us/podcast/rupaul-whats-the-tee-with-michelle-visage/id855749951?mt=2</mods:url>
+                <mods:url dateLastAccessed="2017-06-23"
+                    >https://itunes.apple.com/us/podcast/rupaul-whats-the-tee-with-michelle-visage/id855749951?mt=2</mods:url>
             </mods:location>
             <mods:location>
                 <mods:url>http://www.rupaulpodcast.com/</mods:url>
