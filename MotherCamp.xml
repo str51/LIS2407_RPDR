@@ -58,10 +58,6 @@
            <mods:identifier type="local">RPDR.2017.12</mods:identifier>
            <mods:identifier>ISBN: 978022657760</mods:identifier>
            <mods:accessCondition>Copyright 1979</mods:accessCondition>
-           <mods:location>
-               <mods:url>https://itunes.apple.com/us/album/purse-first-feat-dj-mitch-ferrino-single/id1111134541
-               </mods:url>
-           </mods:location>
            <mods:subject authority="lcsh">
                <mods:topic authorityURI="https://lccn.loc.gov/sh85061780">Homosexuality</mods:topic>
                <mods:geographic authorityURI="https://lccn.loc.gov/n78095330">United States</mods:geographic>
